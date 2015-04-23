@@ -1,5 +1,5 @@
 // tagcloud plugin for reveal.js
-// Forked originally from:
+// Forked originally from but greatly modified:
 // source: https://github.com/sebhildebrandt/reveal.js-tagcloud-plugin
 // license: MIT
 //
